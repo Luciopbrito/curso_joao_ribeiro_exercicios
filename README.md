@@ -1,2 +1,9 @@
-# curso_joao_ribeiro_exercicios
- exercícios propostos do curso JavaScript Fundamentos
+# EXERCÍCIOS PROPOSTOS
+
+## OBSERVAÇÃO
+
+Todos os exercícios feitos nesse respositório, são apenas para a minha aprendizagem na linguagem de programção JavaScript.
+
+## Fonte
+
+[Canal José Ribeiro](https://www.youtube.com/channel/UC6ZL0QLBNKBAOx6vjQXTIJA).
