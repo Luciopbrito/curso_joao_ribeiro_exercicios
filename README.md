@@ -11,3 +11,7 @@ O meu objetivo é fazer os exercícios propostos com algumas modificações, com
 ## FONTE
 
 [Canal José Ribeiro](https://www.youtube.com/channel/UC6ZL0QLBNKBAOx6vjQXTIJA).
+
+## PÁGINAS
+
+[Exercício 1](http://www.github.com/luciopbrito/cursos_joao_ribeiro_exercicios/ex1)
