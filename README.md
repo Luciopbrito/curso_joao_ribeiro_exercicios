@@ -14,4 +14,4 @@ O meu objetivo é fazer os exercícios propostos com algumas modificações, com
 
 ## PÁGINAS
 
-[Exercício 1](http://www.github.com/luciopbrito/cursos_joao_ribeiro_exercicios/ex1)
+[Exercício 1](http://luciopbrito.github.io/curso_joao_ribeiro_exercicios/ex1)
