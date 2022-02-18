@@ -9,8 +9,8 @@ btn.addEventListener('click', () => {
     if (txt1.value != '' || txt2.value != '') {
         let value1 = Number(txt1.value);
         let value2 = Number(txt2.value);
-        res.innerHTML = ''
-        console.clear()
+        res.innerHTML = '';
+        console.clear();
         soma(value1,value2);
         subtracao(value1,value2);
         divisao(value1,value2);
